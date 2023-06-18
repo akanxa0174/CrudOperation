@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  crudoperation:
+    image: ${DOCKER_REGISTRY-}crudoperation
+    build:
+      context: .
+      dockerfile: CrudOperation/Dockerfile

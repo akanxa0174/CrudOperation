@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{54CCF9FA-21DB-4E1D-84A2-387D025E3C35}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lib-user/Projects/CrudOperation/CrudOperation/Controllers/CategoryController.cs" relfile="CrudOperation/Controllers/CategoryController.cs" line="97" column="1" />
+      <Breakpoint file="/Users/lib-user/Projects/CrudOperation/CrudOperation/Controllers/CategoryController.cs" relfile="CrudOperation/Controllers/CategoryController.cs" line="82" column="1" />
+      <Breakpoint file="/Users/lib-user/Projects/CrudOperation/CrudOperation/Controllers/CategoryController.cs" relfile="CrudOperation/Controllers/CategoryController.cs" line="64" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CrudOperation/Dockerfile">
+    <Files>
+      <File FileName="CrudOperation/Controllers/CategoryController.cs" Line="82" Column="1" IsPinned="True" />
+      <File FileName="CrudOperation/Views/Category/Create.cshtml" />
+      <File FileName="CrudOperation/Models/Category.cs" />
+      <File FileName="CrudOperation/Views/Category/Edit.cshtml" />
+      <File FileName="CrudOperation/Views/Category/Index.cshtml" />
+      <File FileName="CrudOperation/Views/Home/Index.cshtml" />
+      <File FileName="CrudOperation/Views/Shared/_Notification.cshtml" />
+      <File FileName="CrudOperation/Views/Shared/_Layout.cshtml" Line="54" Column="45" />
+      <File FileName="CrudOperation/Dockerfile" Line="8" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CrudOperation" expanded="True">
+            <Node name="CrudOperation" expanded="True">
+              <Node name="Dockerfile" selected="True" />
+            </Node>
+            <Node name="docker-compose" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CrudOperation PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
